@@ -54,6 +54,8 @@ Se crearon dos deployments, uno para django y otro para postgres. Las variables 
 
 ![](./diagram.png)
 
+Los `.yaml` empleados se encuentran en la siguiente [carpeta](./deploy/).
+
 1. Single node
 
 ```bash
